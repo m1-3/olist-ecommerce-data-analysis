@@ -49,7 +49,10 @@ Using Python, SQL, and Power BI, I cleaned and analyzed data across multiple tab
 The dashboard includes:
 
 
-![Olist E-commerce Power BI Dashboard](olist_dashboard.png)(olist_dashboard2.png)
+
+![Olist E-commerce Power BI Dashboard](olist_dashboard.png)
+
+![Olist E-commerce Power BI Dashboard - Page 2](olist_dashboard2.png)
 
 - KPI cards for total orders, delivered orders, delivered product revenue, and average order value.
 - Monthly revenue trend analysis.
